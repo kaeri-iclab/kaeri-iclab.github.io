@@ -28,4 +28,4 @@ toc_sticky : true
 
 ## 코로나-19
 ### [mRNA 백신 degradation 예측 (이유한)](https://youtu.be/W28IxEMTscQ)
-### [행위기반 모델링 기법을 이용한 다중이용시설 위험도 예측 (유용균)](https://youtu.be/Y5NHsJ-a2Eg)
+### [행위기반 모델링 기법을 이용한 다중이용시설 위험도 예측 (유용균)](https://youtu.be/90phrvDhNPk)
