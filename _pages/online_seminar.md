@@ -13,6 +13,12 @@ toc_sticky : true
 
 ## 세미나 영상
 
+지능형컴퓨팅연구실 활동요약 [https://youtu.be/gXKVwJPUUzM]
+
+
+
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/noY3qnPvPUE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WEhZKGECUDU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
