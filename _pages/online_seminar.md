@@ -11,6 +11,25 @@ toc_sticky : true
 
 # 2020 한국원자력연구원 <br>지능형컴퓨팅연구실 온라인 세미나 
 
+## 지능형컴퓨팅연구실 온라인 세미나
+
+원자력연구원 지능형컴퓨팅연구실에서 올해 수행한 연구들을 소개합니다. 진행 중인 연구들은 더 많은데 아직 공개하기 어렵거나 보안 과제는 제외하였습니다.
+
+과제 수행 : 약 20억원 (주관기준)
+과제 기획:  약 10억 (정부사업 및 민간수탁)
+과제 참여 : 11개 과제 3MY
+원내 데이터 분석 지원 : 11건
+
+정량성과
+- SCI : 4 건 게재 (주저자 기준, 심사중 5건)
+- KCI : (심사중 1건)
+- AAAI spotlight
+- 특허등록: 2건
+- SW등록: 3건
+- 기술이전: 2건
+- Kaggle 금메달 4건, 그랜드마스터(국내 4번째)
+- ECCV DramaQA Winner (최종 3위)
+
 ## 세미나 영상
 
 ### [지능형컴퓨팅연구실 2020년 활동요약 (유용균)](https://youtu.be/gXKVwJPUUzM) 
@@ -24,7 +43,7 @@ toc_sticky : true
 ## 비원자력분야
 ### [시각질의응답(Visual Question Answering) 소개 (임경태)](https://youtu.be/kU_qtb0h7No)
 ### [객체인식 기술을 이용한 아동그림 심리분석 (임지연)](https://youtu.be/IhNRkYEsB54)
-### [최적설계 및 골격계 영상 고해상화 분야의 딥러닝 적용 (유용균)](https://youtu.be/bogA3vtbohA)
+### [최적설계 및 골격계 영상 고해상화 분야의 딥러닝 적용 (유용균)](https://youtu.be/qyv9Sbsjqg0)
 
 ## 코로나-19
 ### [mRNA 백신 degradation 예측 (이유한)](https://youtu.be/W28IxEMTscQ)
