@@ -21,14 +21,12 @@ toc_sticky : true
 원내 데이터 분석 지원 : 11건
 
 정량성과
-- SCI : 4 건 게재 (주저자 기준, 심사중 5건)
-- KCI : (심사중 1건)
-- AAAI spotlight
+- 논문: SCI 4 건, KCI 2건 게재 (주저자 기준, 심사 중 6건)
 - 특허등록: 2건
-- SW등록: 3건
 - 기술이전: 2건
 - Kaggle 금메달 4건, 그랜드마스터(국내 4번째)
 - ECCV DramaQA Winner (최종 3위)
+- AAAI spotlight
 
 ## 세미나 영상
 
