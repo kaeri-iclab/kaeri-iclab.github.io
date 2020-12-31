@@ -69,7 +69,7 @@ toc: false
 **연구분야** : 데이터 사이언스 in KAERI <br>
 **Phone** : 042-866-6519 <br>
 **E-mail** : youhanlee \[at\] kaeri.re.kr <br>
-> 캐글코리아 페이스북 그룹 운영자 <br> 캐글 랭킹 131/130,282 (0.1%)<br> [캐글 마스터](https://www.kaggle.com/youhanlee) <br> 캐글 분자물성 예측 대회 세계 3위 <br> 캐글 당뇨망막증 판별 대회 세계 3위
+> 캐글코리아 페이스북 그룹 운영자 <br> 캐글 랭킹 131/130,282 (0.1%)<br> [캐글 그랜드마스터](https://www.kaggle.com/youhanlee) <br> 캐글 분자물성 예측 대회 세계 3위 <br> 캐글 당뇨망막증 판별 대회 세계 3위
 
 ---
 
