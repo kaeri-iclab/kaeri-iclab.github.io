@@ -27,6 +27,7 @@ toc: false
 **연구분야** : 인공지능기반 방사선계측 응용기술 <br>
 **Phone** : 042-866-6148 <br>
 **E-mail** : bijeon \[at\] kaeri.re.kr <br>
+> 연구 실적 [[Link](https://scholar.google.co.kr/citations?user=f9ZJWb8AAAAJ&hl=ko)] <br>
 
 ---
 
