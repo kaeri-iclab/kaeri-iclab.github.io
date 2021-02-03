@@ -1,5 +1,5 @@
 ---
-title:  "ICLAB 이수동 선임연구원 - <br>다학제 융합클러스터 공모전 <br> 장려상 수상"
+title:  "ICLAB 이수동 선임연구원 - 다학제 융합클러스터 공모전 <br> 장려상 수상"
 date:   2020-05-08 
 categories: News
 excerpt: 지능형컴퓨팅연구실 뉴스기사
