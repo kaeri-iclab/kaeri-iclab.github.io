@@ -24,7 +24,7 @@ classes: wide
   - Kaggle 당뇨망막증 판별 대회 세계 3위 (이유한 선임연구원)
   - CoNLL 2018 shared task 대회 2위 (임경태 선임연구원) -->
 
-## Publications & Conferences
+## Publications & Top conferences
 
   - B.Jeon et al., Pseudo-Gamma Spectroscopy Based on Plastic Scintillation Detectors using Multitask Learning, Sensors, 2021.
   - S.Kim, Development of Nuclear Power Plant Instrumentation Signal Faults Identification Algorithm, Journal of the Korea Society Industrial Information System, 2021.
