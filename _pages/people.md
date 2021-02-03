@@ -80,6 +80,7 @@ toc: false
 **연구분야** : Applied ML, 강화 학습 <br>
 **Phone** : 042-866-6521 <br>
 **E-mail** : ashryu \[at\] kaeri.re.kr <br>
+> 연구 실적 [[Link](https://scholar.google.com/citations?hl=ko&user=eRyqoEcAAAAJ)] <br>
 
 ---
 
