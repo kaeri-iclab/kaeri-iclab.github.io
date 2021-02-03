@@ -10,7 +10,7 @@ gallery:
     image_path: /assets/images/people/geon.png
     title: "팀장 서호건 선임연구원"
 ---
-# (축) 서호건 선임연구원 외 7명 <br> 제5회 KSME-SEMES 오픈 이노베이션 챌린지 장려상 전문가그룹 부문 장려상 수상
+# (축) 서호건 선임연구원 외 7명 <br> 제5회 KSME-SEMES 오픈 이노베이션 챌린지 <br> 전문가그룹 부문 장려상 수상
 
 ---
 
