@@ -24,11 +24,11 @@ classes: wide
   - Kaggle 당뇨망막증 판별 대회 세계 3위 (이유한 선임연구원)
   - CoNLL 2018 shared task 대회 2위 (임경태 선임연구원) -->
 
-## Publications
+## Publications & Conferences
 
-  - [Pseudo-Gamma Spectroscopy Based on Plastic Scintillation Detectors Using Multitask Learning (전병일 선임기술원)]({{ site.baseurl}}{% link _posts/2021-01-26-Sensors2.md %})
-  - [Reconstruction of Compton Edges from Plastic Gamma Spectra using Deep Autoencoder (전병일 선임기술원)]({{ site.baseurl}}{% link _posts/2020-05-20-Sensors1.md %})
-  - [Intra- and Inter-epoch Temporal Context Network (서호건 선임연구원)]({{ site.baseurl}}{% link _posts/2020-06-26-IITNet.md %})
+  - B.Jeon et al., Pseudo-Gamma Spectroscopy Based on Plastic Scintillation Detectors Using Multitask Learning, Sensors, 2021.
+  - B.Jeon et al., Reconstruction of Compton Edges from Plastic Gamma Spectra using Deep Autoencoder, Sensors, 2020.
+  - H.Seo et al., Intra- and Inter-epoch Temporal Context Network (IITNet) Using Sub-epoch Features for Automatic Sleep Scoring on Raw Single-channel EEG, Biomedical Signal Processing and Control, 2020.
 
 # 기타
   - 세계 최초 딥러닝 기반 최적설계 기술 개발 (SCI 논문 기준)
