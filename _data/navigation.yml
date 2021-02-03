@@ -2,21 +2,25 @@
 main:
   - title: "Home"
     url: /
-  - title: "온라인세미나"
-    url: /ai_on_seminar/
-  - title: "AI-UM"
-    url: /aifest/  
-  - title: "AI 특성화 기업"
-    url: /aisolution/
-  - title: "People"
-    url: /people/
   - title: "Research"
     url: /research/
+  - title: "Research Achievement"
+    url: /researchachievement/
   - title: "News"
     url: /categories/
+  - title: "People"
+    url: /people/
   - title: "Photos"
     url: /photos/
+  - title: "Event" 
+    url: /event/ 
   - title: "Contact"
     url: /contact/    
   # - title: "Sitemap"
   #   url: /sitemap/
+  # - title: "온라인세미나"
+  #   url: /ai_on_seminar/
+  # - title: "AI-UM"
+  #   url: /aifest/  
+  # - title: "AI 특성화 기업"
+  #   url: /aisolution/

@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko"
-title                    : "Intelligent Computing Lab"
+title                    : "Applied Artifical Intelligence Lab"
 title_separator          : "-"
 subtitle                 : "Korea Atomic Energy Research Institute" # site tagline that appears below site title in masthead
-name                     : "한국원자력연구원 지능형컴퓨팅연구실"
-description              : "한국원자력연구원 지능형컴퓨팅연구실"
+name                     : "한국원자력연구원 인공지능응용 연구실"
+description              : "한국원자력연구원 인공지능응용 연구실"
 url                      : "https://kaeri-iclab.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kaeri-iclab/kaeri-iclab.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "한국원자력연구원 지능형컴퓨팅연구실"
+  name             : "한국원자력연구원 인공지능응용 연구실"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : ""
