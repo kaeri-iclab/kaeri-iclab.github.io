@@ -1,6 +1,6 @@
 ---
 title:  "ICLAB 서호건 선임연구원 외 7명 <br> 제5회 KSME-SEMES 오픈 이노베이션 챌린지 전문가그룹 부문 장려상 수상"
-date:   2020-05-08 
+date:   2020-11-20 
 categories: News
 excerpt: 지능형컴퓨팅연구실 뉴스기사
 header:
