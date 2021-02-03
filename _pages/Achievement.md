@@ -26,7 +26,9 @@ classes: wide
 
 ## Publications & Conferences
 
-  - B.Jeon et al., Pseudo-Gamma Spectroscopy Based on Plastic Scintillation Detectors Using Multitask Learning, Sensors, 2021.
+  - B.Jeon et al., Pseudo-Gamma Spectroscopy Based on Plastic Scintillation Detectors using Multitask Learning, Sensors, 2021.
+  - S.Kim, Development of Nuclear Power Plant Instrumentation Signal Faults Identification Algorithm, Journal of the Korea Society Industrial Information System, 2021.
+  - K.Lim and J. Park, Part-of-speech Tagging using Multiview Learning, IEEE Access, 2020.
   - B.Jeon et al., Reconstruction of Compton Edges from Plastic Gamma Spectra using Deep Autoencoder, Sensors, 2020.
   - H.Seo et al., Intra- and Inter-epoch Temporal Context Network (IITNet) Using Sub-epoch Features for Automatic Sleep Scoring on Raw Single-channel EEG, Biomedical Signal Processing and Control, 2020.
 
