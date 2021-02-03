@@ -38,7 +38,7 @@ classes: wide
   - K. Lim et al., Semi-Supervised Learning on Meta Structure: Multi-Task Tagging and Parsing in Low-Resource Scenarios, 34th AAAI Conference on Artificial Intelligence, New York, USA, 17-21 Feb. 2020.
 
 
-## 기타
+# 기타
   - 세계 최초 딥러닝 기반 최적설계 기술 개발 (SCI 논문 기준)
   - 세계 최초 딥러닝 기반 골격계 영상고해상화 기술 개발
   - 기술이전 2건 (나무와숲, 키즐리)
