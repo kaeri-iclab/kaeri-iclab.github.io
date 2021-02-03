@@ -29,8 +29,10 @@ classes: wide
   - B. Jeon et al., Pseudo-Gamma Spectroscopy Based on Plastic Scintillation Detectors using Multitask Learning, *Sensors*(SCIE), 2021.
   - S. Kim, Development of Nuclear Power Plant Instrumentation Signal Faults Identification Algorithm, *Journal of the Korea Society Industrial Information System*(KCI), 2021.
   - K. Lim and J. Park, Part-of-speech Tagging using Multiview Learning, *IEEE Access*(SCIE), 2020.
+  - K. Lim, Y. Lee and Y. Yu, Deep Contextualized QA Representations Based on Bidirectional Matching Network, 16th European Conference on Computer Vision, Virtual event, 23-28, Aug. 2020.
   - B. Jeon et al., Reconstruction of Compton Edges from Plastic Gamma Spectra using Deep Autoencoder, *Sensors*(SCIE), 2020.
   - H. Seo et al., Intra- and Inter-epoch Temporal Context Network (IITNet) Using Sub-epoch Features for Automatic Sleep Scoring on Raw Single-channel EEG, *Biomedical Signal Processing and Control*(SCIE), 2020.
+  - K. Lim et al., Semi-Supervised Learning on Meta Structure: Multi-Task Tagging and Parsing in Low-Resource Scenarios, 34th AAAI Conference on Artificial Intelligence, New York, USA, 17-21 Feb. 2020.
 
 # 기타
   - 세계 최초 딥러닝 기반 최적설계 기술 개발 (SCI 논문 기준)
