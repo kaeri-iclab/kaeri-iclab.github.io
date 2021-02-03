@@ -15,5 +15,5 @@ gallery:
 
 **생성 모델을 플라스틱 섬광체 검출기의 컴프턴 엣지 복원** 연구에서는 대표적 생성모델 중 하나인 오토엔코더(Autoencoder)을 이용하여 섬광체 검출기의 간접 계측 방식으로 인한 에너지 퍼짐 현상(Energy broadening effect)을 보정할 수 있는 스펙트럼 보정 기술을 개발하였습니다.
 
-{% include gallery caption="한국원자력연구원 지능형컴퓨팅연구실 전벼일 선임기술원"%}
+{% include gallery caption="한국원자력연구원 지능형컴퓨팅연구실 전병일 선임기술원"%}
 
