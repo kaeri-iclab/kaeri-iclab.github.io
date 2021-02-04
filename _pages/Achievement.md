@@ -35,8 +35,8 @@ classes: wide
 
 
 ## AI Conferences
-  - K. Lim, Y. Lee and Y. Yu, Deep Contextualized QA Representations Based on Bidirectional Matching Network, 16th European Conference on Computer Vision, Virtual event, 23-28 Aug. 2020.
-  - K. Lim et al., Semi-Supervised Learning on Meta Structure: Multi-Task Tagging and Parsing in Low-Resource Scenarios, 34th AAAI Conference on Artificial Intelligence, New York, USA, 17-21 Feb. 2020.
+  - **K. Lim**, **Y. Lee** and **Y. Yu**, Deep Contextualized QA Representations Based on Bidirectional Matching Network, 16th European Conference on Computer Vision, Virtual event, 23-28 Aug. 2020.
+  - **K. Lim** et al., Semi-Supervised Learning on Meta Structure: Multi-Task Tagging and Parsing in Low-Resource Scenarios, 34th AAAI Conference on Artificial Intelligence, New York, USA, 17-21 Feb. 2020.
 
 
 # 기타
