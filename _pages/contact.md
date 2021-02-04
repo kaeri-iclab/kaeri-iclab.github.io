@@ -7,14 +7,13 @@ permalink: /contact/
 author_profile: false
 toc: false
 ---
-### 한국원자력연구원 인공지능응용 연구실 <br>
+### 한국원자력연구원 인공지능응용연구실 <br>
 
 34057, 대전광역시 유성구 대덕대로989번길 111 <br>
-제 6연구동 315호 <br>
 
 ### Applied Artificial Intelligence Lab - KAERI <br>
 
-315, 6th Research Building, Korea Atomic Reaserch Institute, 111, <br>
+Korea Atomic Reaserch Institute, 111, <br>
 Daedeok-daero 989 beon-gil, Yuseong-gu, Daejeon, Republic of Korea, 34507 <br><br>
 
 
