@@ -34,7 +34,7 @@ classes: wide
   - J. Jeon, **H. Seo** and K.Y. Jhang, Nondestructive Evaluation of Thermal Aging in Al6061 Alloy by Measuring Acoustic Nonlinearity of Laser-Generated Surface Acoustic Waves, *Metals*(SCIE), 2020.
 
 
-## AI Conferences
+## Top conferences
   - **K. Lim**, **Y. Lee** and **Y. Yu**, Deep Contextualized QA Representations Based on Bidirectional Matching Network, 16th European Conference on Computer Vision, Virtual event, 23-28 Aug. 2020.
   - **K. Lim** et al., Semi-Supervised Learning on Meta Structure: Multi-Task Tagging and Parsing in Low-Resource Scenarios, 34th AAAI Conference on Artificial Intelligence, New York, USA, 17-21 Feb. 2020.
 
