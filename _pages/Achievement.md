@@ -31,7 +31,7 @@ classes: wide
   - **K. Lim** and J. Park, Part-of-speech Tagging using Multiview Learning, *IEEE Access*(SCIE), 2020.
   - **B. Jeon** et al., Reconstruction of Compton Edges from Plastic Gamma Spectra using Deep Autoencoder, *Sensors*(SCIE), 2020.
   - **H. Seo** et al., Intra- and Inter-epoch Temporal Context Network (IITNet) Using Sub-epoch Features for Automatic Sleep Scoring on Raw Single-channel EEG, *Biomedical Signal Processing and Control*(SCIE), 2020.
-  - J. Jeon, **H. Seo** and K.Y. Jhang, Nondestructive Evaluation of Thermal Aging in Al6061 Alloy by Measuring Acoustic Nonlinearity of Laser-Generated Surface Acoustic Waves, *Metals*(SCIE), 2020.
+  - J. Jeon, **H. Seo<sup>*</sup>** and K.Y. Jhang<sup>*</sup>, Nondestructive Evaluation of Thermal Aging in Al6061 Alloy by Measuring Acoustic Nonlinearity of Laser-Generated Surface Acoustic Waves, *Metals*(SCIE), 2020.
   - **S. Ryu**, M. Kim and H. Kim, Denoising Autoencoder-Based Missing Value Imputation for Smart Meters, *IEEE Access*(SCIE), 2020.
 
 ## Top conferences
