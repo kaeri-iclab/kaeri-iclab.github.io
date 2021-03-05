@@ -13,7 +13,7 @@ toc: false
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/people/gyun.jpg){: .align-left}
 **유용균** <br><br>
-**직책** : 지능형컴퓨팅연구실장 <br>
+**직책** : 인공지능응용연구실장 <br>
 **연구분야** : 인공지능 기반 최적설계 <br>
 **Phone** : 042-868-8160 <br>
 **E-mail** : ygyu \[at\] kaeri.re.kr <br>
@@ -31,7 +31,7 @@ toc: false
 
 ---
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/people/tae.jpg){: .align-left} 
+<!-- ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/people/tae.jpg){: .align-left} 
 **임경태** <br><br>
 **직책** : 선임연구원 <br>
 **연구분야** : 자연어처리, 딥러닝 기반 시계열 분석 <br>
@@ -40,7 +40,7 @@ toc: false
 > The CoNLL 2018 shared task, UAS track 2위 [[paper](https://www.aclweb.org/anthology/K18-2014.pdf)] <br>
 > The 2018 Shared Task on Extrinsic Parser Evaluation: Event Extraction track 1위 [[paper](https://www.aclweb.org/anthology/K18-2002.pdf)]
 
----
+--- -->
 
 <!-- ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/dong.jpg){: .align-right} 
 **이수동** <br><br>
@@ -64,7 +64,7 @@ toc: false
 
 ---
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/han.jpg){: .align-right} 
+<!-- ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/han.jpg){: .align-right} 
 **이유한** <br><br>
 **직책** : 선임연구원 <br>
 **연구분야** : 데이터 사이언스 in KAERI <br>
@@ -72,7 +72,7 @@ toc: false
 **E-mail** : youhanlee \[at\] kaeri.re.kr <br>
 > 캐글코리아 페이스북 그룹 운영자 <br> 캐글 랭킹 131/130,282 (0.1%)<br> [캐글 그랜드마스터](https://www.kaggle.com/youhanlee) <br> 캐글 분자물성 예측 대회 세계 3위 <br> 캐글 당뇨망막증 판별 대회 세계 3위
 
----
+--- -->
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/hyoung.jpg){: .align-left} 
 **류승형** <br><br>
