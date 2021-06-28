@@ -12,7 +12,7 @@ classes: wide
 
 ## Awards
     
-  - [2021 제36회 제어로봇시스템학회 학술대회 신진연구자상 (서호건 선임연구원)]({{ site.baseurl}}{% link _posts/2021-06-24-award1.md %})
+  - [2021 제36회 제어로봇시스템학회 학술대회 우수신진연구자상 (서호건 선임연구원)]({{ site.baseurl}}{% link _posts/2021-06-24-award1.md %})
   - [2021 한국원자력연구원 홍보유공상 (인공지능응용 연구실)]({{ site.baseurl}}{% link _posts/2021-02-10-award1.md %})
   - [2020 한국원자력학회 추계학술발표회 우수논문상 (전병일 선임기술원)]({{ site.baseurl}}{% link _posts/2020-12-16-conferencewin2.md %})
   - [2020 제5회 KSME-SEMENS 오픈 이노베이션 챌린지 장려상 (서호건 선임연구원 외 7인)]({{ site.baseurl}}{% link _posts/2020-11-20-KSME-challenge.md %})
@@ -27,12 +27,13 @@ classes: wide
 
 ## Publications
 ### Published
-  - **B. Jeon** et al., Pseudo-Gamma Spectroscopy Based on Plastic Scintillation Detectors using Multitask Learning, *Sensors*(SCIE), Jan. 2021.
-  - **S. Kim**, Development of Nuclear Power Plant Instrumentation Signal Faults Identification Algorithm, *Journal of the Korea Society Industrial Information System*(KCI), Dec. 2020.
-  - **K. Lim** and J. Park, Part-of-speech Tagging using Multiview Learning, *IEEE Access*(SCIE), Oct. 2020.
-  - **H. Seo** et al., Intra- and Inter-epoch Temporal Context Network (IITNet) Using Sub-epoch Features for Automatic Sleep Scoring on Raw Single-channel EEG, *Biomedical Signal Processing and Control*(SCIE), Aug. 2020.
-  - **B. Jeon** et al., Reconstruction of Compton Edges from Plastic Gamma Spectra using Deep Autoencoder, *Sensors*(SCIE), May. 2020.
-  - **S. Ryu**, M. Kim and H. Kim, Denoising Autoencoder-Based Missing Value Imputation for Smart Meters, *IEEE Access*(SCIE), FEb. 2020.
+  - **H. Seo** and S. Joo, Characteristic Analysis of Data Preprocessing for 3D Point Cloud Classification Based on a Deep Neural Network: PointNet, *Journal of the Korean Society for Nondestructive Testing* (KCI),Feb. 2021.
+  - **B. Jeon** et al., Pseudo-Gamma Spectroscopy Based on Plastic Scintillation Detectors using Multitask Learning, *Sensors* (SCIE), Jan. 2021.
+  - **S. Kim**, Development of Nuclear Power Plant Instrumentation Signal Faults Identification Algorithm, *Journal of the Korea Society Industrial Information System* (KCI), Dec. 2020.
+  - **K. Lim** and J. Park, Part-of-speech Tagging using Multiview Learning, *IEEE Access* (SCIE), Oct. 2020.
+  - **H. Seo** et al., Intra- and Inter-epoch Temporal Context Network (IITNet) Using Sub-epoch Features for Automatic Sleep Scoring on Raw Single-channel EEG, *Biomedical Signal Processing and Control* (SCIE), Aug. 2020.
+  - **B. Jeon** et al., Reconstruction of Compton Edges from Plastic Gamma Spectra using Deep Autoencoder, *Sensors* (SCIE), May. 2020.
+  - **S. Ryu**, M. Kim and H. Kim, Denoising Autoencoder-Based Missing Value Imputation for Smart Meters, *IEEE Access* (SCIE), FEb. 2020.
   - J. Jeon, **H. Seo** and K.Y. Jhang, Nondestructive Evaluation of Thermal Aging in Al6061 Alloy by Measuring Acoustic Nonlinearity of Laser-Generated Surface Acoustic Waves, *Metals*(SCIE), Dec. 2019.
   
 ### Accepted
