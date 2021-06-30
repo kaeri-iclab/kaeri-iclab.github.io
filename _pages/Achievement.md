@@ -15,7 +15,7 @@ classes: wide
   - [2021 한국산업정보학회 춘계학술대회 우수논문상 (임지연 인턴연구원)]({{ site.baseurl}}{% link _posts/2021-06-19-award_210619_1.md %})
   - [2021 한국원자력연구원 홍보유공상 (인공지능응용 연구실)]({{ site.baseurl}}{% link _posts/2021-02-10-award1.md %})
   - [2020 한국원자력학회 추계학술발표회 우수논문상 (전병일 선임기술원)]({{ site.baseurl}}{% link _posts/2020-12-16-conferencewin2.md %})
-  - [2020 제5회 KSME-SEMENS 오픈 이노베이션 챌린지 장려상 (서호건 선임연구원 외 7인)]({{ site.baseurl}}{% link _posts/2020-11-20-KSME-challenge.md %})
+  - [2020 제5회 KSME-SEMENS 오픈 이노베이션 챌린지 장려상 (서호건 선임연구원 외 7인)]({{ site.baseurl}}{% link _posts/2020-11-20-award_201120_1.md %})
   - [2020 한국산업정보학회 하계학술대회 최우수논문상 (김승근 선임연구원)]({{ site.baseurl}}{% link _posts/2020-09-08-conferencewin.md %})
   - [2020 다학제 융합클러스터 주제 발굴 공모전 장려상 (이수동 선임연구원)]({{ site.baseurl}}{% link _posts/2020-05-08-federated.md %})
   - [영상 스토리 이해 인공지능 국제 대회(Drama QA Challenage) 입상(임경태, 이유한 선임연구원)]({{ site.baseurl}}{% link _posts/2020-09-01-VQAprize.md %})
