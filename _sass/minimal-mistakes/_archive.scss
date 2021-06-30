@@ -172,12 +172,9 @@
     margin-right: 0; /* override margin*/
     width: span(3 of 12);
 
-    &:nth-child(2n + 1) {
-      clear: none;
-    }
-
     &:nth-child(4n + 1) {
       clear: both;
+      margin-left: 0;
     }
 
     &:nth-child(4n + 2) {
