@@ -13,6 +13,7 @@ classes: wide
 ## Awards
     
   - [2021 제36회 제어로봇시스템학회 학술대회 우수신진연구자상 (서호건 선임연구원)]({{ site.baseurl}}{% link _posts/2021-06-24-award1.md %})
+  - [2021 한국산업정보학회 춘계학술대회 우수논문상 (임지연 인턴연구원)]({{ site.baseurl}}{% link _posts/2021-06-19-award1.md %})
   - [2021 한국원자력연구원 홍보유공상 (인공지능응용 연구실)]({{ site.baseurl}}{% link _posts/2021-02-10-award1.md %})
   - [2020 한국원자력학회 추계학술발표회 우수논문상 (전병일 선임기술원)]({{ site.baseurl}}{% link _posts/2020-12-16-conferencewin2.md %})
   - [2020 제5회 KSME-SEMENS 오픈 이노베이션 챌린지 장려상 (서호건 선임연구원 외 7인)]({{ site.baseurl}}{% link _posts/2020-11-20-KSME-challenge.md %})
