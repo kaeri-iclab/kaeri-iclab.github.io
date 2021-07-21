@@ -27,6 +27,7 @@ classes: wide
 
 ## Publications
 ### Published
+  - **H. Seo**, **J Jun** et al., Pipe Thickness Estimation by Deep Learning of Pulsed Eddy Current Time-Series Data, *Journal of the Korean Society for Nondestructive Testing* (KCI), Jun. 2021.
   - **H. Seo** and S. Joo, Characteristic Analysis of Data Preprocessing for 3D Point Cloud Classification Based on a Deep Neural Network: PointNet, *Journal of the Korean Society for Nondestructive Testing* (KCI), Feb. 2021.
   - **B. Jeon** et al., Pseudo-Gamma Spectroscopy Based on Plastic Scintillation Detectors using Multitask Learning, *Sensors* (SCIE), Jan. 2021.
   - **S. Kim**, Development of Nuclear Power Plant Instrumentation Signal Faults Identification Algorithm, *Journal of the Korea Society Industrial Information System* (KCI), Dec. 2020.
@@ -34,7 +35,7 @@ classes: wide
   - **H. Seo** et al., Intra- and Inter-epoch Temporal Context Network (IITNet) Using Sub-epoch Features for Automatic Sleep Scoring on Raw Single-channel EEG, *Biomedical Signal Processing and Control* (SCIE), Aug. 2020.
   - **B. Jeon** et al., Reconstruction of Compton Edges from Plastic Gamma Spectra using Deep Autoencoder, *Sensors* (SCIE), May. 2020.
   - **S. Ryu**, M. Kim and H. Kim, Denoising Autoencoder-Based Missing Value Imputation for Smart Meters, *IEEE Access* (SCIE), FEb. 2020.
-  - J. Jun, **H. Seo** and K.Y. Jhang, Nondestructive Evaluation of Thermal Aging in Al6061 Alloy by Measuring Acoustic Nonlinearity of Laser-Generated Surface Acoustic Waves, *Metals* (SCIE), Dec. 2019.
+  - **J. Jun**, **H. Seo** and K.Y. Jhang, Nondestructive Evaluation of Thermal Aging in Al6061 Alloy by Measuring Acoustic Nonlinearity of Laser-Generated Surface Acoustic Waves, *Metals* (SCIE), Dec. 2019.
   
 ### Accepted
   - **H. Seo**, **J. Jun** et al., Pipe Thickness Estimation by Deep Learning of Pulsed Eddy Current Time-series Data, *Journal of the Korean Society for Nondestructive Testing* (KCI), Jun. 2021.
